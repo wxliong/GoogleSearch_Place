@@ -3,10 +3,10 @@
 Screenshots in file "googleSearchPlaceGuide.docx"
 
 STEP 1
-Mehtod 1:   ./ googleSearchByKeywords.ps1 [enter]
+Method 1:   ./ googleSearchByKeywords.ps1 [enter]
  
 STEP 2
-Mehtod 2(position pararmeter):   ./ googleSearchByKeywords.ps1 Spa2 “spa T” [enter]      
+Method 2(position pararmeter):   ./ googleSearchByKeywords.ps1 Spa2 “spa T” [enter]      
  
 Method 1 and 2 will generate 2 files
  
